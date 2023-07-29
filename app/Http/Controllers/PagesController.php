@@ -90,8 +90,8 @@ class PagesController extends Controller
                 function ($message)use ($request) {
                     
                         $message->from($request->email);
-                        $message->to('info@unlockninja.com', 'unlockninja')
-                        ->subject('Unlockninja Contact Us');
+                        $message->to('info@demoninja.com', 'demoninja')
+                        ->subject('demoninja Contact Us');
         });
 
         
@@ -670,7 +670,7 @@ class PagesController extends Controller
         $order->uuid = '';
         $order->device_id = '';
         $order->device_token = '';
-        $order->organization = 'UNLOCKNINJA';  //enum('UNLOCKNINJA', 'SAMSUNGUNLOCKS') =
+        $order->organization = 'demoninja';  //enum('demoninja', 'SAMSUNGUNLOCKS') =
         $order->feedback_email =  'INPROCESS'; //enum('INPROCESS', 'SENT', 'STOP') =
         $order->verify_email = 'NONE'; //enum('NONE', 'YES', 'NO')  =
         $order->verify_email_reason  = '';
@@ -837,7 +837,7 @@ class PagesController extends Controller
         $order->uuid = '';
         $order->device_id = '';
         $order->device_token = '';
-        $order->organization = 'UNLOCKNINJA';  //enum('UNLOCKNINJA', 'SAMSUNGUNLOCKS') =
+        $order->organization = 'demoninja';  //enum('demoninja', 'SAMSUNGUNLOCKS') =
         $order->feedback_email =  'INPROCESS'; //enum('INPROCESS', 'SENT', 'STOP') =
         $order->verify_email = 'NONE'; //enum('NONE', 'YES', 'NO')  =
         $order->verify_email_reason  = '';

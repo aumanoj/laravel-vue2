@@ -91,7 +91,7 @@
 <section class="heart-sec" role="Person" itemscope itemtype="https://schema.org/Person" style="padding-top: 15px;">
   <div class="container">
     <h2>
-      <img itemprop="image" src="https://www.unlockninja.com/images/svg/heart.svg" alt="" class="svg" />
+      <img itemprop="image" src="https://www.demoninja.com/images/svg/heart.svg" alt="" class="svg" />
       <span itemprop="name">More than
         <small>50,000</small> satisfied customers
       </span>

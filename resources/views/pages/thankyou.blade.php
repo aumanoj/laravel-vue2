@@ -65,10 +65,10 @@
 <h2>Thank you for your order </h2>
 <p><strong>Important -</strong> Please provide your IMEI number by signing in as per details below:</p>
 <p>
-URL : <a href="https://www.unlockninja.com/clients/login">https://www.unlockninja.com/clients/login</a><br>
+URL : <a href="https://www.demoninja.com/clients/login">https://www.demoninja.com/clients/login</a><br>
 Username : <?php echo $OrderUser->email; ?> <br>
 Password : <?php echo $OrderUser->password; ?> </p>
-<p>Don't worry if you can not do it right now - we have also sent the above information to you via email at <strong><?php echo $OrderUser->email; ?></strong>. For any further assitance, feel free to email us at info@unlockninja.com </p>
+<p>Don't worry if you can not do it right now - we have also sent the above information to you via email at <strong><?php echo $OrderUser->email; ?></strong>. For any further assitance, feel free to email us at info@demoninja.com </p>
 </div>
 </div>
 </div>

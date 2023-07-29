@@ -281,7 +281,7 @@ if( isset($txn_id) && $result_pay_status == 'APPROVED' )
 		 
 		
 						$ch = curl_init();
-						curl_setopt($ch, CURLOPT_URL,"https://www.unlockninja.com/customapi/v1/unpaid_users.php");
+						curl_setopt($ch, CURLOPT_URL,"https://www.demoninja.com/customapi/v1/unpaid_users.php");
 						curl_setopt($ch, CURLOPT_POST, 1);
 						curl_setopt($ch, CURLOPT_POSTFIELDS,"email=$delemail");
 
@@ -324,7 +324,7 @@ if( isset($txn_id) && $result_pay_status == 'APPROVED' )
 
 			$headers .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
 
-			$headers .= "From: info@unlockninja.com" . "\r\n" .
+			$headers .= "From: info@demoninja.com" . "\r\n" .
 
 			"Reply-To: ".$edata['gen_contact_email']."" . "\r\n" .
 
@@ -396,7 +396,7 @@ if( isset($txn_id) && $result_pay_status == 'APPROVED' )
 
 					$registatoin_ids = array($gcm_regid);
 
-					$text="Your UnlockNinja Order has been completed successfully.";
+					$text="Your demoninja Order has been completed successfully.";
 
 					$password_api=base64_decode($udata['password']);
 
@@ -456,7 +456,7 @@ if( isset($txn_id) && $result_pay_status == 'APPROVED' )
 
             $to      = $uemail;
 
-			//$to      = "info@unlockninja.com";
+			//$to      = "info@demoninja.com";
 
 			$subject = $subjectcontent;
 
@@ -466,7 +466,7 @@ if( isset($txn_id) && $result_pay_status == 'APPROVED' )
 
 			$headers .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
 
-			$headers .= "From: info@unlockninja.com" . "\r\n" .
+			$headers .= "From: info@demoninja.com" . "\r\n" .
 
 			"Reply-To: ".$edata['gen_contact_email']." " . "\r\n" .
 
@@ -477,7 +477,7 @@ if( isset($txn_id) && $result_pay_status == 'APPROVED' )
 
 			//include_once("smtpmailtest.php"); //mail sent bt smtp
 
-			//$fromname ='UnlockNinja';
+			//$fromname ='demoninja';
 
 			//$c= $funObj->send_email_smtp($subject,$fromname,$edata['gen_contact_email'], $to, $toname,$edata['gen_contact_email'], $message);
 				//sending mail my post mark smtp
@@ -529,7 +529,7 @@ if( isset($txn_id) && $result_pay_status == 'APPROVED' )
 
 				$registatoin_ids = array($gcm_regid);
 
-				$text="Your UnlockNinja Order has been completed successfully.";
+				$text="Your demoninja Order has been completed successfully.";
 
 				$password_api=base64_decode($udata['password']);
 

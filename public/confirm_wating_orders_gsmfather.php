@@ -142,8 +142,8 @@ while($gdata = $waitingQuery->fetch_assoc()) {
                         $message .= 'Our Price: '.$selling_price.'<br>';
 											
 
-						$fromemail="contact@unlockninja.com";
-						$replyto="info@unlockninja.com";		   
+						$fromemail="contact@demoninja.com";
+						$replyto="info@demoninja.com";		   
 						$fromname ='support';
 
 						$headers  = 'MIME-Version: 1.0' . "\r\n";
@@ -155,7 +155,7 @@ while($gdata = $waitingQuery->fetch_assoc()) {
 											//sending mail my post mark smtp
 						$mailobject=new phpmailerClass();
 						$mailobject->sendMialSmtpAlert(
-							array('to'=>'info@unlockninja.com','name'=>'','subject'=>$subject,'message'=>$message));
+							array('to'=>'info@demoninja.com','name'=>'','subject'=>$subject,'message'=>$message));
 					                        
 					    
 					    

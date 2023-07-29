@@ -34,7 +34,7 @@ class PayPalController extends Controller
         $chk = Mail::send([], ['msg' => $msg], 
             function($message) use($msg){
                 $message->subject("testing Notify");
-                $message->to("surender@aphroecs.com");
+                $message->to("testEmail write here ");
                 $message->setBody($msg,"text/html");});
         $order = Order::find($request->custom);
         $order->pay_status = 1;
@@ -62,13 +62,13 @@ class PayPalController extends Controller
          
         // send email
 
-        //echo mail("surender@aphroecs.com","My subject",$msg);
+        //echo mail("email write here ","My subject",$msg);
      exit;
        $msg    = json_encode($request->all());
         $chk = Mail::send([], ['msg' => $msg], 
             function($message) use($msg){
                 $message->subject("testing Notify");
-                $message->to("surender@aphroecs.com");
+                $message->to("email write here ");
                 $message->setBody($msg,"text/html");});
         exit;
         Log::info($request->all());

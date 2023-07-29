@@ -88,7 +88,7 @@
 
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
-<!-- UnlockNinja.com -->
+<!-- demoninja.com -->
 
 		    <div class="ad-google text-center" style="padding-top: 15px;">
 

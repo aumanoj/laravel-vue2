@@ -56,7 +56,7 @@ class FiredSendMissingToolIDEmail
         
 
         $chk = \Mail::send([],[],function($message) use($dataView) {
-            $message->to('info@unlockninja.com','kaberi@aphroecs.com','bipul@aphroecs.com');
+            $message->to('info@demoninja.com','demoninja@aphroecs.com','demoninja@aphroecs.com');
             $message->subject("Missing Tools ID in Fun Credit");
             $message->setBody($dataView,"text/html");
             $message->from('info@aphroecs.com');

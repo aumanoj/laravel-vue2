@@ -14,7 +14,7 @@
 <?php
 if(is_home() || is_front_page()){
 ?>
-<title><?php // is_front_page() ? bloginfo('description') : wp_title('|', true, 'right'); ?>Unlockninja - Blog Latest news update about cell phone unlocking service for all Brands</title>
+<title><?php // is_front_page() ? bloginfo('description') : wp_title('|', true, 'right'); ?>demoninja - Blog Latest news update about cell phone unlocking service for all Brands</title>
 <?php }else{ ?>
 <title><?php wp_title('|', true, 'right'); ?></title>
 <?php } ?>
@@ -31,7 +31,7 @@ if(is_home() || is_front_page()){
     "itemReviewed":
     {
         "@type": "organization",
-        "name": "Unlockninja Cell Phone Unlocking Service"
+        "name": "demoninja Cell Phone Unlocking Service"
     }
 }
 </script>

@@ -79,10 +79,10 @@ RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1 [L,R=301]
     #RewriteRule ^(.*)$ https://www.%{HTTP_HOST}/$1 [R=301,L]	
 	
 	#RewriteCond %{HTTP_HOST} ^192\.99\.5\.176
-	#RewriteRule (.*) http://www.unlockninja.com/$1 [R=301,L]
+	#RewriteRule (.*) http://www.demoninja.com/$1 [R=301,L]
 	#RewriteCond %{HTTP_HOST} ^192.99.5.176	
 	
-	#RewriteRule ^index\.php$ http://unlockninja.com/ [R=301,L]
+	#RewriteRule ^index\.php$ http://demoninja.com/ [R=301,L]
 	
 	RewriteCond %{REQUEST_FILENAME} !-d
     RewriteCond %{REQUEST_FILENAME} !-f

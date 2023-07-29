@@ -1,34 +1,34 @@
 @extends('layouts/unlock')
 
 @section('head')
-<title>Phone Unlock codes for iPhone 6, Samsung, ZTE, LG | UnlockNinja</title>
+<title>Phone Unlock codes for iPhone 6, Samsung, ZTE, LG | demoninja</title>
 <meta name="description" content="Need Phone Unlock codes? Get unlock code for iPhone 6, ZTE, Samsung, LG & all Brands. 
 Learn How to unlock an iPhone 6 by a leading phone unlocking service provider." />
 <meta name="keywords" content="Phone Unlock codes, How to unlock a phone, unlock code for iPhone 6, How to unlock iPhone 6, unlocking iPhone 6, How to unlock iPhone 6 at&t, How to unlock iPhone 6 t-mobile" />
 
-<meta property="og:title" content="Unlockninja">
-<meta property="og:site_name" content="Unlockninja">
-<meta property="og:url" content="https://www.unlockninja.com/">
+<meta property="og:title" content="demoninja">
+<meta property="og:site_name" content="demoninja">
+<meta property="og:url" content="https://www.demoninja.com/">
 <meta property="og:description" content="Need Phone Unlock codes? Get unlock code for iPhone 6, ZTE, Samsung, LG & all Brands. Learn How to unlock an iPhone 6 by a leading phone unlocking service provider.">
 <meta property="og:type" content="website">
-<meta property="og:image" content="https://www.unlockninja.com/images/logo.png">
+<meta property="og:image" content="https://www.demoninja.com/images/logo.png">
 
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Organization",
-  "name": "Unlockninja",
-  "url": "https://www.unlockninja.com/",
-  "logo": "https://www.unlockninja.com/images/logo.png"
+  "name": "demoninja",
+  "url": "https://www.demoninja.com/",
+  "logo": "https://www.demoninja.com/images/logo.png"
 }
 </script>
 
    
-<link rel="canonical" href="https://www.unlockninja.com/" />
+<link rel="canonical" href="https://www.demoninja.com/" />
 <!-- Latest compiled and minified CSS -->
 <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"> -->
 <!-- CSS -->
-<!-- <link rel="stylesheet" href="https://unlockninja.com/assets/css/defer.min.css"> -->
+<!-- <link rel="stylesheet" href="https://demoninja.com/assets/css/defer.min.css"> -->
 
 <!-- Script -->
 
@@ -102,7 +102,7 @@ Learn How to unlock an iPhone 6 by a leading phone unlocking service provider." 
 <!-- <section class="heart-sec" role="Person" itemscope itemtype="https://schema.org/Person" style="padding-top: 20px;">
   <div class="container">
     <h2>
-      <img itemprop="image" src="images/svg/heart.svg" alt="Unlockninja satisfied customers" class="svg" />
+      <img itemprop="image" src="images/svg/heart.svg" alt="demoninja satisfied customers" class="svg" />
       <span>More than
         <small>50,000</small> satisfied customers
       </span>
@@ -124,7 +124,7 @@ Learn How to unlock an iPhone 6 by a leading phone unlocking service provider." 
 <section class="heart-sec" role="Person" itemscope style="padding-top: 45px; padding-bottom: 1px;">
   <div class="container">
     <h2>
-      <img itemprop="image" src="images/svg/heart.svg" alt="Unlockninja satisfied customers" class="svg" />
+      <img itemprop="image" src="images/svg/heart.svg" alt="demoninja satisfied customers" class="svg" />
       <span>More than
         <small>50,000</small> happy customers
       </span>
@@ -644,7 +644,7 @@ Learn How to unlock an iPhone 6 by a leading phone unlocking service provider." 
         <div class="panel-heading" role="tab" id="headingMin">
           <h3 class="panel-title">
             <a role="button" data-toggle="collapse" data-parent="#accordion" href="#howUnlock6" aria-expanded="true" aria-controls="collapseOne">
-              <img itemprop="image" src="images/apple1.png" alt="Unlock iphone 6 and all other iplohe models with unlockninja " class="svg" style="float: left; width: 18px;" />
+              <img itemprop="image" src="images/apple1.png" alt="Unlock iphone 6 and all other iplohe models with demoninja " class="svg" style="float: left; width: 18px;" />
               <span>
                 <small class="red">How to unlock iphone 6</small>, and other apple products
                 .
@@ -1060,7 +1060,7 @@ Learn How to unlock an iPhone 6 by a leading phone unlocking service provider." 
         </div>
         <div class="client-feedback">
           <img src="images/stars.png" alt="Phone unlocking services customer reviews" />
-          <p>"I have been saving a ton of money on international roaming. Thanks to UnlockNinja for permanently unlocking my iphone 6"</p>
+          <p>"I have been saving a ton of money on international roaming. Thanks to demoninja for permanently unlocking my iphone 6"</p>
         </div>
       </div>
     </div>

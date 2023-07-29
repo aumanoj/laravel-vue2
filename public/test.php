@@ -8,7 +8,7 @@ require_once('API.php');
         $OrderRow['model_id'] = 45;
         $dataArray["Network"] = 23;
         $dataArray["Mobile"] =  7;
-        $dataArray["Email"] = 'info@unlockninja.com';
+        $dataArray["Email"] = 'info@demoninja.com';
         //$apii = new UnlockBase();
        // exit;
         $XML = UnlockBase::CallAPI('PlaceOrder', $dataArray);

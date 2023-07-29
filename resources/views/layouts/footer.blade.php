@@ -233,7 +233,7 @@
         <div class="rating">
           <ul>
             <li>
-              <img src="{{url('images/stars.png')}}" alt="Unlockninja Reviews" class="img-fluid" />
+              <img src="{{url('images/stars.png')}}" alt="demoninja Reviews" class="img-fluid" />
             </li>
             <li class="r1">5 out of 5</li>
           </ul>
@@ -299,11 +299,11 @@
         </div>
       </div>
       <div class="text-center mt30">
-        <img src="{{url('images/pay-mode.jpg')}}" alt="Paypal payment option for phone unlocking services unlockninja" />
+        <img src="{{url('images/pay-mode.jpg')}}" alt="Paypal payment option for phone unlocking services demoninja" />
       </div>
     </div>
   </div>
-  <div class="copyright"> &copy; 2020 UnlockNinja.com All rights reserved.
+  <div class="copyright"> &copy; 2020 demoninja.com All rights reserved.
     <a href="http://www.aphroecs.com/" target="_blank">Website developed</a> by
     <a href="http://www.aphroecs.com/" target="_blank">Aphro ECS</a>
   </div>

@@ -526,7 +526,7 @@ class OrdersController extends Controller
           $OrderRow['model_id'] = $order->model_id;
           $dataArray["Network"] = $order->network_id;
           $dataArray["Mobile"] =  $order->model_id;
-          $dataArray["Email"] = 'info@unlockninja.com';
+          $dataArray["Email"] = 'info@demoninja.com';
           //$apii = new UnLock();
          // exit;
          try {

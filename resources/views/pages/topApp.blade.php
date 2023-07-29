@@ -274,8 +274,8 @@ border: 1px solid #25729a;
             <div class="col-md-12 col-xs-12">
                 <ul class="app-filter">
                     <li><a data-toggle="modal" style="display:none;" id="modelclick" data-target="#myModal" href="#"><img src="images/apple_1.png"></a></li>
-                    <li><a href="https://unlockninja.com/top_apps?platform=ios"><img src="images/apple_1.png"></a></li>
-                    <li><a href="https://unlockninja.com/top_apps?platform=android"><img src="images/android.png"></a></li>
+                    <li><a href="https://demoninja.com/top_apps?platform=ios"><img src="images/apple_1.png"></a></li>
+                    <li><a href="https://demoninja.com/top_apps?platform=android"><img src="images/android.png"></a></li>
                 </ul>
                 <header>Top trending apps </header>
             </div>

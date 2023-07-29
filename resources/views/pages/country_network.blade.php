@@ -8,21 +8,21 @@
 <meta name="description" content="<?php echo $content_dsc['meta_desc'] ?>" />
 <meta name="keywords" content="<?php echo $content_mk['meta_keyword'] ?>" />
 
-<meta property="og:title" content="Unlockninja - {{$content_mt['meta_title']}}">
-<meta property="og:site_name" content="Unlockninja">
+<meta property="og:title" content="demoninja - {{$content_mt['meta_title']}}">
+<meta property="og:site_name" content="demoninja">
 <meta property="og:url" content="<?php echo url()->full(); ?>">
 <meta property="og:description" content="<?php echo $content_dsc['meta_desc'] ?>">
 <meta property="og:type" content="website">
-<meta property="og:image" content="https://www.unlockninja.com/images/banners/thumb/{{$bnr_image}}">
+<meta property="og:image" content="https://www.demoninja.com/images/banners/thumb/{{$bnr_image}}">
 
 <script type="application/ld+json">
 {
   "@context": "https://schema.org/", 
   "@type": "Product", 
   "name": "Unlock {{$brands}} {{$models}}",
-  "image": "https://www.unlockninja.com/images/banners/thumb/{{$bnr_image}}",
+  "image": "https://www.demoninja.com/images/banners/thumb/{{$bnr_image}}",
   "description": "<?php echo $content_dsc['meta_desc'] ?>",
-  "brand": "Unlockninja",
+  "brand": "demoninja",
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": "4.8",

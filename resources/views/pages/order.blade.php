@@ -4,7 +4,7 @@
 
 
 @section('head')
-<title> Secure Checkout | UnlockNinja.com</title>
+<title> Secure Checkout | demoninja.com</title>
 {!! !empty($asset_header->content) ? $asset_header->content:''!!}  
 @endsection
 
@@ -131,7 +131,7 @@
                 <img src="images/svg/check-box2.svg"></img> 
                 <span>Money back Guarantee</span> </a></li><li> <a data-toggle="tooltip" data-placement="top" title="" data-original-title="We will work with your network provider or phone manufacturer to unlock your phone. "> 
                 <img src="images/svg/check-box2.svg"></img> 
-                <span>100% Legal</span> </a></li><li> <a data-toggle="tooltip" data-placement="top" title="" data-original-title="One lucky customer wins $100 each month at UnlockNinja.com and you can too."> 
+                <span>100% Legal</span> </a></li><li> <a data-toggle="tooltip" data-placement="top" title="" data-original-title="One lucky customer wins $100 each month at demoninja.com and you can too."> 
                 <img src="images/svg/check-box2.svg"></img> 
                 <span>Chance to WIN $100</span> </a></li>
               </ul>
@@ -303,7 +303,7 @@
     
   </div>
 
-  <section class="paymentPP"><div class="copyright"> <img src="{{url('/images/logo.png')}}" class="" height="25px" alt="logo"> <span class="">© 2021 UnlockNinja.com All rights reserved. | <a href="https://unlockninja.com/contacts" itemprop="name">Contact us</a> | <a href="https://unlockninja.com/pages/display/terms-conditions/" itemprop="name">Terms &amp; conditions</a></span></div> </section>
+  <section class="paymentPP"><div class="copyright"> <img src="{{url('/images/logo.png')}}" class="" height="25px" alt="logo"> <span class="">© 2021 demoninja.com All rights reserved. | <a href="https://demoninja.com/contacts" itemprop="name">Contact us</a> | <a href="https://demoninja.com/pages/display/terms-conditions/" itemprop="name">Terms &amp; conditions</a></span></div> </section>
 
 @endsection
 

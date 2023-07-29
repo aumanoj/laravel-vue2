@@ -86,7 +86,7 @@ Mail::send('clients.email', [
 
     function ($message)use ($request) {
         
-            $message->from('info@unlockninja.com');
+            $message->from('info@demoninja.com');
             $message->to($request->email)
             ->subject('Forgot Password ');
 });

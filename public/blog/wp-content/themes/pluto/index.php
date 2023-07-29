@@ -96,9 +96,9 @@ article h1 {line-height: normal;}
 					<span>Share</span>
 				</div>
 				<ul>
-					<li><a href="https://www.facebook.com/pages/Unlockninja/1383330261986097" class="Facebook"><img src="https://www.unlockninja.com/blog/wp-content/plugins/zilla-social/images/16px/Facebook.png" alt="Facebook"></a></li>
-					<li><a href="https://plus.google.com/+UnlockNinjaUnlocking" class="Google+"><img src="https://www.unlockninja.com/blog/wp-content/plugins/zilla-social/images/16px/Google+.png" alt="Google+"></a></li>
-					<li><a href="https://twitter.com/NinjaUnlock" class="Twitter"><img src="https://www.unlockninja.com/blog/wp-content/plugins/zilla-social/images/16px/Twitter.png" alt="Twitter"></a></li>
+					<li><a href="https://www.facebook.com/pages/demoninja/1383330261986097" class="Facebook"><img src="https://www.demoninja.com/blog/wp-content/plugins/zilla-social/images/16px/Facebook.png" alt="Facebook"></a></li>
+					<li><a href="https://plus.google.com/+demoninjaUnlocking" class="Google+"><img src="https://www.demoninja.com/blog/wp-content/plugins/zilla-social/images/16px/Google+.png" alt="Google+"></a></li>
+					<li><a href="https://twitter.com/NinjaUnlock" class="Twitter"><img src="https://www.demoninja.com/blog/wp-content/plugins/zilla-social/images/16px/Twitter.png" alt="Twitter"></a></li>
 					
 
 
@@ -118,7 +118,7 @@ article h1 {line-height: normal;}
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
-<!-- UnlockNinja.com -->
+<!-- demoninja.com -->
 
 		    <div class="ad-google text-center" style="">
 

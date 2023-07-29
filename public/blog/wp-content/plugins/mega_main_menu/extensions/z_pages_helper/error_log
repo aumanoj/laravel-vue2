@@ -1,0 +1,4 @@
+[16-Mar-2016 23:08:53 Asia/Kolkata] PHP Fatal error:  Call to undefined function is_admin() in /home/wwwunloc/public_html/blog/wp-content/plugins/mega_main_menu/extensions/z_pages_helper/init.php on line 7
+[16-Mar-2016 23:08:54 Asia/Kolkata] PHP Fatal error:  Call to undefined function has_filter() in /home/wwwunloc/public_html/blog/wp-content/plugins/mega_main_menu/extensions/z_pages_helper/backup_settings.php on line 26
+[30-Mar-2017 19:38:15 Asia/Kolkata] PHP Fatal error:  Call to undefined function has_filter() in /home/wwwunloc/public_html/blog/wp-content/plugins/mega_main_menu/extensions/z_pages_helper/backup_settings.php on line 26
+[30-Mar-2017 19:38:16 Asia/Kolkata] PHP Fatal error:  Call to undefined function is_admin() in /home/wwwunloc/public_html/blog/wp-content/plugins/mega_main_menu/extensions/z_pages_helper/init.php on line 7

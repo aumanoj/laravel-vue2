@@ -1,0 +1,15 @@
+#RewriteRule ^.*$ - [H=application/x-httpd-lsphp56]
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /blog/
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /blog/index.php [L]
+#RewriteRule ^ninja-admin/?$ /wp-login.php [QSA,L]
+#RewriteRule ^ninja-admin/register/?$ /wp-login.php?action=register [QSA,L]
+#RewriteRule ^ninja-admin/lostpassword/?$ /wp-login.php?action=lostpassword [QSA,L]
+</IfModule>
+ 
+# END WordPress

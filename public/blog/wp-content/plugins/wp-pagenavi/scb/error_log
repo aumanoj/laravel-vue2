@@ -1,0 +1,4 @@
+[16-Mar-2016 23:07:36 Asia/Kolkata] PHP Fatal error:  Class 'WP_Widget' not found in /home/wwwunloc/public_html/blog/wp-content/plugins/wp-pagenavi/scb/Widget.php on line 5
+[16-Mar-2016 23:07:36 Asia/Kolkata] PHP Fatal error:  Class 'scbAdminPage' not found in /home/wwwunloc/public_html/blog/wp-content/plugins/wp-pagenavi/scb/BoxesPage.php on line 5
+[30-Mar-2017 19:37:07 Asia/Kolkata] PHP Fatal error:  Class 'scbAdminPage' not found in /home/wwwunloc/public_html/blog/wp-content/plugins/wp-pagenavi/scb/BoxesPage.php on line 5
+[30-Mar-2017 19:37:07 Asia/Kolkata] PHP Fatal error:  Class 'WP_Widget' not found in /home/wwwunloc/public_html/blog/wp-content/plugins/wp-pagenavi/scb/Widget.php on line 5

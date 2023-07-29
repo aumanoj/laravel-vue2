@@ -1,0 +1,4 @@
+[31-Jul-2015 10:53:53 Europe/Berlin] PHP Fatal error:  Call to undefined function add_action() in /home/wwwunloc/public_html/blog/wp-content/plugins/hello.php on line 60
+[01-Sep-2015 10:54:33 Europe/Berlin] PHP Fatal error:  Call to undefined function add_action() in /home/wwwunloc/public_html/blog/wp-content/plugins/hello.php on line 60
+[01-Oct-2015 11:21:17 Europe/Berlin] PHP Fatal error:  Call to undefined function add_action() in /home/wwwunloc/public_html/blog/wp-content/plugins/hello.php on line 60
+[07-Apr-2020 16:11:38 Asia/Kolkata] PHP Fatal error:  Call to undefined function add_action() in /home/wwwunloc/public_html/blog/wp-content/plugins/hello.php on line 60

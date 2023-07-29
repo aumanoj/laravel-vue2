@@ -1,0 +1,2 @@
+[16-Mar-2016 23:07:30 Asia/Kolkata] PHP Fatal error:  Call to undefined function plugin_dir_url() in /home/wwwunloc/public_html/blog/wp-content/plugins/userpro/addons/badges/index.php on line 3
+[30-Mar-2017 19:34:50 Asia/Kolkata] PHP Fatal error:  Call to undefined function plugin_dir_url() in /home/wwwunloc/public_html/blog/wp-content/plugins/userpro/addons/badges/index.php on line 3

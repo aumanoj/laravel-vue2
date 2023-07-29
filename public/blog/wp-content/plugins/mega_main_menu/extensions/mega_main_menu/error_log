@@ -1,0 +1,8 @@
+[16-Mar-2016 23:08:53 Asia/Kolkata] PHP Fatal error:  Call to undefined function is_admin() in /home/wwwunloc/public_html/blog/wp-content/plugins/mega_main_menu/extensions/mega_main_menu/init.php on line 7
+[16-Mar-2016 23:08:53 Asia/Kolkata] PHP Fatal error:  Call to a member function get_option() on a non-object in /home/wwwunloc/public_html/blog/wp-content/plugins/mega_main_menu/extensions/mega_main_menu/handler.php on line 13
+[16-Mar-2016 23:08:53 Asia/Kolkata] PHP Fatal error:  Call to undefined function add_action() in /home/wwwunloc/public_html/blog/wp-content/plugins/mega_main_menu/extensions/mega_main_menu/backend_walker.php on line 12
+[16-Mar-2016 23:08:53 Asia/Kolkata] PHP Fatal error:  Class 'Walker_Nav_Menu' not found in /home/wwwunloc/public_html/blog/wp-content/plugins/mega_main_menu/extensions/mega_main_menu/frontend_walker.php on line 7
+[30-Mar-2017 19:38:15 Asia/Kolkata] PHP Fatal error:  Call to undefined function is_admin() in /home/wwwunloc/public_html/blog/wp-content/plugins/mega_main_menu/extensions/mega_main_menu/init.php on line 7
+[30-Mar-2017 19:38:15 Asia/Kolkata] PHP Fatal error:  Call to a member function get_option() on a non-object in /home/wwwunloc/public_html/blog/wp-content/plugins/mega_main_menu/extensions/mega_main_menu/handler.php on line 13
+[30-Mar-2017 19:38:15 Asia/Kolkata] PHP Fatal error:  Call to undefined function add_action() in /home/wwwunloc/public_html/blog/wp-content/plugins/mega_main_menu/extensions/mega_main_menu/backend_walker.php on line 12
+[30-Mar-2017 19:38:15 Asia/Kolkata] PHP Fatal error:  Class 'Walker_Nav_Menu' not found in /home/wwwunloc/public_html/blog/wp-content/plugins/mega_main_menu/extensions/mega_main_menu/frontend_walker.php on line 7

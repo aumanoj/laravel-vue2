@@ -1,0 +1,3 @@
+[09-Oct-2015 15:24:03 Europe/Berlin] PHP Fatal error:  Class 'SimplePie' not found in /home/wwwunloc/public_html/blog/wp-includes/SimplePie/Core.php on line 55
+[09-Dec-2015 14:43:26 Asia/Kolkata] PHP Fatal error:  Class 'SimplePie' not found in /home/wwwunloc/public_html/blog/wp-includes/SimplePie/Core.php on line 55
+[30-Mar-2017 19:37:13 Asia/Kolkata] PHP Fatal error:  Class 'SimplePie' not found in /home/wwwunloc/public_html/blog/wp-includes/SimplePie/Core.php on line 55

@@ -1,0 +1,2 @@
+[16-Mar-2016 23:08:54 Asia/Kolkata] PHP Fatal error:  Call to undefined function is_admin() in /home/wwwunloc/public_html/blog/wp-content/plugins/mega_main_menu/extensions/array_theme_options/init.php on line 7
+[30-Mar-2017 19:38:14 Asia/Kolkata] PHP Fatal error:  Call to undefined function is_admin() in /home/wwwunloc/public_html/blog/wp-content/plugins/mega_main_menu/extensions/array_theme_options/init.php on line 7

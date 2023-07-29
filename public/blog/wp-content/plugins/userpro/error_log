@@ -1,0 +1,2 @@
+[16-Mar-2016 23:06:59 Asia/Kolkata] PHP Fatal error:  Call to undefined function plugin_dir_url() in /home/wwwunloc/public_html/blog/wp-content/plugins/userpro/index.php on line 11
+[30-Mar-2017 19:32:20 Asia/Kolkata] PHP Fatal error:  Call to undefined function plugin_dir_url() in /home/wwwunloc/public_html/blog/wp-content/plugins/userpro/index.php on line 11

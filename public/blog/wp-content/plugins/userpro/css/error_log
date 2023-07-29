@@ -1,0 +1,2 @@
+[16-Mar-2016 23:07:09 Asia/Kolkata] PHP Fatal error:  Call to undefined function userpro_get_option() in /home/wwwunloc/public_html/blog/wp-content/plugins/userpro/css/userpro.php on line 4
+[30-Mar-2017 19:34:28 Asia/Kolkata] PHP Fatal error:  Call to undefined function userpro_get_option() in /home/wwwunloc/public_html/blog/wp-content/plugins/userpro/css/userpro.php on line 4

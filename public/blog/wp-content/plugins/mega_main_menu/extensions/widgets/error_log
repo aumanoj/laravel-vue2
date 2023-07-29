@@ -1,0 +1,4 @@
+[16-Mar-2016 23:08:52 Asia/Kolkata] PHP Fatal error:  Call to undefined function add_action() in /home/wwwunloc/public_html/blog/wp-content/plugins/mega_main_menu/extensions/widgets/register_sidebars.php on line 8
+[16-Mar-2016 23:08:52 Asia/Kolkata] PHP Fatal error:  Call to undefined function add_action() in /home/wwwunloc/public_html/blog/wp-content/plugins/mega_main_menu/extensions/widgets/register_sidebars.php on line 8
+[30-Mar-2017 19:38:15 Asia/Kolkata] PHP Fatal error:  Call to undefined function add_action() in /home/wwwunloc/public_html/blog/wp-content/plugins/mega_main_menu/extensions/widgets/register_sidebars.php on line 8
+[30-Mar-2017 19:38:15 Asia/Kolkata] PHP Fatal error:  Call to undefined function add_action() in /home/wwwunloc/public_html/blog/wp-content/plugins/mega_main_menu/extensions/widgets/register_sidebars.php on line 8

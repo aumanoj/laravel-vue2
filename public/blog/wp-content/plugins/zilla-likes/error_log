@@ -1,0 +1,2 @@
+[16-Mar-2016 23:07:10 Asia/Kolkata] PHP Fatal error:  Call to undefined function add_action() in /home/wwwunloc/public_html/blog/wp-content/plugins/zilla-likes/zilla-likes.php on line 15
+[30-Mar-2017 19:34:31 Asia/Kolkata] PHP Fatal error:  Call to undefined function add_action() in /home/wwwunloc/public_html/blog/wp-content/plugins/zilla-likes/zilla-likes.php on line 15

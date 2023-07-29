@@ -1,0 +1,12 @@
+[09-Oct-2015 15:26:23 Europe/Berlin] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/wwwunloc/public_html/blog/wp-includes/SimplePie/Cache/DB.php on line 52
+[09-Oct-2015 15:26:24 Europe/Berlin] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/wwwunloc/public_html/blog/wp-includes/SimplePie/Cache/File.php on line 52
+[09-Oct-2015 15:26:25 Europe/Berlin] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/wwwunloc/public_html/blog/wp-includes/SimplePie/Cache/Memcache.php on line 59
+[09-Oct-2015 15:26:26 Europe/Berlin] PHP Fatal error:  Class 'SimplePie_Cache_DB' not found in /home/wwwunloc/public_html/blog/wp-includes/SimplePie/Cache/MySQL.php on line 58
+[09-Dec-2015 14:45:48 Asia/Kolkata] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/wwwunloc/public_html/blog/wp-includes/SimplePie/Cache/DB.php on line 52
+[09-Dec-2015 14:45:49 Asia/Kolkata] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/wwwunloc/public_html/blog/wp-includes/SimplePie/Cache/File.php on line 52
+[09-Dec-2015 14:45:50 Asia/Kolkata] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/wwwunloc/public_html/blog/wp-includes/SimplePie/Cache/Memcache.php on line 59
+[09-Dec-2015 14:45:51 Asia/Kolkata] PHP Fatal error:  Class 'SimplePie_Cache_DB' not found in /home/wwwunloc/public_html/blog/wp-includes/SimplePie/Cache/MySQL.php on line 58
+[30-Mar-2017 19:38:22 Asia/Kolkata] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/wwwunloc/public_html/blog/wp-includes/SimplePie/Cache/File.php on line 52
+[30-Mar-2017 19:38:22 Asia/Kolkata] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/wwwunloc/public_html/blog/wp-includes/SimplePie/Cache/DB.php on line 52
+[30-Mar-2017 19:38:22 Asia/Kolkata] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/wwwunloc/public_html/blog/wp-includes/SimplePie/Cache/Memcache.php on line 59
+[30-Mar-2017 19:38:22 Asia/Kolkata] PHP Fatal error:  Class 'SimplePie_Cache_DB' not found in /home/wwwunloc/public_html/blog/wp-includes/SimplePie/Cache/MySQL.php on line 58

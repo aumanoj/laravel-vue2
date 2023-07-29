@@ -1,0 +1,85 @@
+[01-Jul-2015 10:08:39 Europe/Berlin] PHP Fatal error:  Call to undefined function load_textdomain() in /home/wwwunloc/public_html/blog/wp-admin/includes/admin.php on line 15
+[01-Jul-2015 10:08:40 Europe/Berlin] PHP Strict Standards:  Redefining already defined constructor for class ftp in /home/wwwunloc/public_html/blog/wp-admin/includes/class-ftp-pure.php on line 34
+[01-Jul-2015 10:08:40 Europe/Berlin] PHP Fatal error:  Class 'ftp_base' not found in /home/wwwunloc/public_html/blog/wp-admin/includes/class-ftp-pure.php on line 28
+[01-Jul-2015 10:08:41 Europe/Berlin] PHP Strict Standards:  Redefining already defined constructor for class ftp in /home/wwwunloc/public_html/blog/wp-admin/includes/class-ftp-sockets.php on line 34
+[01-Jul-2015 10:08:41 Europe/Berlin] PHP Fatal error:  Class 'ftp_base' not found in /home/wwwunloc/public_html/blog/wp-admin/includes/class-ftp-sockets.php on line 28
+[31-Jul-2015 10:53:52 Europe/Berlin] PHP Fatal error:  Call to undefined function load_textdomain() in /home/wwwunloc/public_html/blog/wp-admin/includes/admin.php on line 15
+[31-Jul-2015 10:53:52 Europe/Berlin] PHP Strict Standards:  Redefining already defined constructor for class ftp in /home/wwwunloc/public_html/blog/wp-admin/includes/class-ftp-pure.php on line 34
+[31-Jul-2015 10:53:52 Europe/Berlin] PHP Fatal error:  Class 'ftp_base' not found in /home/wwwunloc/public_html/blog/wp-admin/includes/class-ftp-pure.php on line 28
+[31-Jul-2015 10:53:52 Europe/Berlin] PHP Strict Standards:  Redefining already defined constructor for class ftp in /home/wwwunloc/public_html/blog/wp-admin/includes/class-ftp-sockets.php on line 34
+[31-Jul-2015 10:53:52 Europe/Berlin] PHP Fatal error:  Class 'ftp_base' not found in /home/wwwunloc/public_html/blog/wp-admin/includes/class-ftp-sockets.php on line 28
+[31-Jul-2015 10:53:52 Europe/Berlin] PHP Fatal error:  Class 'WP_Filesystem_Base' not found in /home/wwwunloc/public_html/blog/wp-admin/includes/class-wp-filesystem-direct.php on line 17
+[31-Jul-2015 10:53:52 Europe/Berlin] PHP Fatal error:  Class 'WP_Filesystem_Base' not found in /home/wwwunloc/public_html/blog/wp-admin/includes/class-wp-filesystem-ftpext.php on line 17
+[31-Jul-2015 10:53:52 Europe/Berlin] PHP Fatal error:  Class 'WP_Filesystem_Base' not found in /home/wwwunloc/public_html/blog/wp-admin/includes/class-wp-filesystem-ftpsockets.php on line 17
+[31-Jul-2015 10:53:52 Europe/Berlin] PHP Fatal error:  Class 'WP_Filesystem_Base' not found in /home/wwwunloc/public_html/blog/wp-admin/includes/class-wp-filesystem-ssh2.php on line 36
+[31-Jul-2015 10:53:52 Europe/Berlin] PHP Fatal error:  Call to undefined function __() in /home/wwwunloc/public_html/blog/wp-admin/includes/continents-cities.php on line 7
+[31-Jul-2015 10:53:53 Europe/Berlin] PHP Fatal error:  Call to undefined function __() in /home/wwwunloc/public_html/blog/wp-admin/includes/file.php on line 13
+[31-Jul-2015 10:53:53 Europe/Berlin] PHP Fatal error:  Call to undefined function add_filter() in /home/wwwunloc/public_html/blog/wp-admin/includes/media.php on line 64
+[31-Jul-2015 10:53:53 Europe/Berlin] PHP Fatal error:  Call to undefined function add_action() in /home/wwwunloc/public_html/blog/wp-admin/includes/misc.php on line 247
+[31-Jul-2015 10:53:53 Europe/Berlin] PHP Fatal error:  Call to undefined function add_filter() in /home/wwwunloc/public_html/blog/wp-admin/includes/plugin.php on line 1812
+[31-Jul-2015 10:53:53 Europe/Berlin] PHP Fatal error:  Call to undefined function add_action() in /home/wwwunloc/public_html/blog/wp-admin/includes/plugin-install.php on line 161
+[31-Jul-2015 10:53:53 Europe/Berlin] PHP Fatal error:  Class 'Walker' not found in /home/wwwunloc/public_html/blog/wp-admin/includes/template.php on line 24
+[31-Jul-2015 10:53:53 Europe/Berlin] PHP Fatal error:  Call to undefined function add_action() in /home/wwwunloc/public_html/blog/wp-admin/includes/theme-install.php on line 205
+[31-Jul-2015 10:53:53 Europe/Berlin] PHP Fatal error:  Call to undefined function add_filter() in /home/wwwunloc/public_html/blog/wp-admin/includes/update.php on line 191
+[31-Jul-2015 10:53:53 Europe/Berlin] PHP Warning:  require_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home/wwwunloc/public_html/blog/wp-admin/includes/upgrade.php on line 16
+[31-Jul-2015 10:53:53 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/admin.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwwunloc/public_html/blog/wp-admin/includes/upgrade.php on line 16
+[31-Jul-2015 10:53:53 Europe/Berlin] PHP Fatal error:  Call to undefined function add_action() in /home/wwwunloc/public_html/blog/wp-admin/includes/user.php on line 387
+[01-Aug-2015 08:43:03 Europe/Berlin] PHP Fatal error:  Call to undefined function load_textdomain() in /home/wwwunloc/public_html/blog/wp-admin/includes/admin.php on line 15
+[01-Aug-2015 08:43:03 Europe/Berlin] PHP Strict Standards:  Redefining already defined constructor for class ftp in /home/wwwunloc/public_html/blog/wp-admin/includes/class-ftp-pure.php on line 34
+[01-Aug-2015 08:43:03 Europe/Berlin] PHP Fatal error:  Class 'ftp_base' not found in /home/wwwunloc/public_html/blog/wp-admin/includes/class-ftp-pure.php on line 28
+[01-Aug-2015 08:43:04 Europe/Berlin] PHP Strict Standards:  Redefining already defined constructor for class ftp in /home/wwwunloc/public_html/blog/wp-admin/includes/class-ftp-sockets.php on line 34
+[01-Aug-2015 08:43:04 Europe/Berlin] PHP Fatal error:  Class 'ftp_base' not found in /home/wwwunloc/public_html/blog/wp-admin/includes/class-ftp-sockets.php on line 28
+[01-Aug-2015 08:43:04 Europe/Berlin] PHP Fatal error:  Class 'WP_Filesystem_Base' not found in /home/wwwunloc/public_html/blog/wp-admin/includes/class-wp-filesystem-direct.php on line 17
+[01-Aug-2015 08:43:04 Europe/Berlin] PHP Fatal error:  Class 'WP_Filesystem_Base' not found in /home/wwwunloc/public_html/blog/wp-admin/includes/class-wp-filesystem-ftpext.php on line 17
+[01-Aug-2015 08:43:04 Europe/Berlin] PHP Fatal error:  Class 'WP_Filesystem_Base' not found in /home/wwwunloc/public_html/blog/wp-admin/includes/class-wp-filesystem-ftpsockets.php on line 17
+[01-Aug-2015 08:43:04 Europe/Berlin] PHP Fatal error:  Class 'WP_Filesystem_Base' not found in /home/wwwunloc/public_html/blog/wp-admin/includes/class-wp-filesystem-ssh2.php on line 36
+[01-Aug-2015 08:43:05 Europe/Berlin] PHP Fatal error:  Call to undefined function __() in /home/wwwunloc/public_html/blog/wp-admin/includes/continents-cities.php on line 7
+[01-Aug-2015 08:43:05 Europe/Berlin] PHP Fatal error:  Call to undefined function __() in /home/wwwunloc/public_html/blog/wp-admin/includes/file.php on line 13
+[01-Aug-2015 08:43:06 Europe/Berlin] PHP Fatal error:  Call to undefined function add_filter() in /home/wwwunloc/public_html/blog/wp-admin/includes/media.php on line 64
+[01-Aug-2015 08:43:06 Europe/Berlin] PHP Fatal error:  Call to undefined function add_action() in /home/wwwunloc/public_html/blog/wp-admin/includes/misc.php on line 247
+[01-Aug-2015 08:43:06 Europe/Berlin] PHP Fatal error:  Call to undefined function add_filter() in /home/wwwunloc/public_html/blog/wp-admin/includes/plugin.php on line 1812
+[01-Aug-2015 08:43:06 Europe/Berlin] PHP Fatal error:  Call to undefined function add_action() in /home/wwwunloc/public_html/blog/wp-admin/includes/plugin-install.php on line 161
+[01-Aug-2015 08:43:06 Europe/Berlin] PHP Fatal error:  Class 'Walker' not found in /home/wwwunloc/public_html/blog/wp-admin/includes/template.php on line 24
+[01-Aug-2015 08:43:06 Europe/Berlin] PHP Fatal error:  Call to undefined function add_action() in /home/wwwunloc/public_html/blog/wp-admin/includes/theme-install.php on line 205
+[01-Sep-2015 10:54:32 Europe/Berlin] PHP Fatal error:  Call to undefined function load_textdomain() in /home/wwwunloc/public_html/blog/wp-admin/includes/admin.php on line 15
+[01-Sep-2015 10:54:32 Europe/Berlin] PHP Strict Standards:  Redefining already defined constructor for class ftp in /home/wwwunloc/public_html/blog/wp-admin/includes/class-ftp-pure.php on line 34
+[01-Sep-2015 10:54:32 Europe/Berlin] PHP Fatal error:  Class 'ftp_base' not found in /home/wwwunloc/public_html/blog/wp-admin/includes/class-ftp-pure.php on line 28
+[01-Sep-2015 10:54:32 Europe/Berlin] PHP Strict Standards:  Redefining already defined constructor for class ftp in /home/wwwunloc/public_html/blog/wp-admin/includes/class-ftp-sockets.php on line 34
+[01-Sep-2015 10:54:32 Europe/Berlin] PHP Fatal error:  Class 'ftp_base' not found in /home/wwwunloc/public_html/blog/wp-admin/includes/class-ftp-sockets.php on line 28
+[01-Sep-2015 10:54:32 Europe/Berlin] PHP Fatal error:  Class 'WP_Filesystem_Base' not found in /home/wwwunloc/public_html/blog/wp-admin/includes/class-wp-filesystem-direct.php on line 17
+[01-Sep-2015 10:54:32 Europe/Berlin] PHP Fatal error:  Class 'WP_Filesystem_Base' not found in /home/wwwunloc/public_html/blog/wp-admin/includes/class-wp-filesystem-ftpext.php on line 17
+[01-Sep-2015 10:54:32 Europe/Berlin] PHP Fatal error:  Class 'WP_Filesystem_Base' not found in /home/wwwunloc/public_html/blog/wp-admin/includes/class-wp-filesystem-ftpsockets.php on line 17
+[01-Sep-2015 10:54:32 Europe/Berlin] PHP Fatal error:  Class 'WP_Filesystem_Base' not found in /home/wwwunloc/public_html/blog/wp-admin/includes/class-wp-filesystem-ssh2.php on line 36
+[01-Sep-2015 10:54:33 Europe/Berlin] PHP Fatal error:  Call to undefined function __() in /home/wwwunloc/public_html/blog/wp-admin/includes/continents-cities.php on line 7
+[01-Sep-2015 10:54:33 Europe/Berlin] PHP Fatal error:  Call to undefined function __() in /home/wwwunloc/public_html/blog/wp-admin/includes/file.php on line 13
+[01-Sep-2015 10:54:33 Europe/Berlin] PHP Fatal error:  Call to undefined function add_filter() in /home/wwwunloc/public_html/blog/wp-admin/includes/media.php on line 64
+[01-Sep-2015 10:54:33 Europe/Berlin] PHP Fatal error:  Call to undefined function add_action() in /home/wwwunloc/public_html/blog/wp-admin/includes/misc.php on line 247
+[01-Sep-2015 10:54:33 Europe/Berlin] PHP Fatal error:  Call to undefined function add_filter() in /home/wwwunloc/public_html/blog/wp-admin/includes/plugin.php on line 1812
+[01-Sep-2015 10:54:33 Europe/Berlin] PHP Fatal error:  Call to undefined function add_action() in /home/wwwunloc/public_html/blog/wp-admin/includes/plugin-install.php on line 161
+[01-Sep-2015 10:54:33 Europe/Berlin] PHP Fatal error:  Class 'Walker' not found in /home/wwwunloc/public_html/blog/wp-admin/includes/template.php on line 24
+[01-Sep-2015 10:54:33 Europe/Berlin] PHP Fatal error:  Call to undefined function add_action() in /home/wwwunloc/public_html/blog/wp-admin/includes/theme-install.php on line 205
+[01-Sep-2015 10:54:33 Europe/Berlin] PHP Fatal error:  Call to undefined function add_filter() in /home/wwwunloc/public_html/blog/wp-admin/includes/update.php on line 191
+[01-Sep-2015 10:54:33 Europe/Berlin] PHP Warning:  require_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home/wwwunloc/public_html/blog/wp-admin/includes/upgrade.php on line 16
+[01-Sep-2015 10:54:33 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/admin.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwwunloc/public_html/blog/wp-admin/includes/upgrade.php on line 16
+[01-Sep-2015 10:54:33 Europe/Berlin] PHP Fatal error:  Call to undefined function add_action() in /home/wwwunloc/public_html/blog/wp-admin/includes/user.php on line 387
+[01-Oct-2015 11:21:15 Europe/Berlin] PHP Fatal error:  Call to undefined function load_textdomain() in /home/wwwunloc/public_html/blog/wp-admin/includes/admin.php on line 15
+[01-Oct-2015 11:21:15 Europe/Berlin] PHP Strict Standards:  Redefining already defined constructor for class ftp in /home/wwwunloc/public_html/blog/wp-admin/includes/class-ftp-pure.php on line 34
+[01-Oct-2015 11:21:15 Europe/Berlin] PHP Fatal error:  Class 'ftp_base' not found in /home/wwwunloc/public_html/blog/wp-admin/includes/class-ftp-pure.php on line 28
+[01-Oct-2015 11:21:15 Europe/Berlin] PHP Strict Standards:  Redefining already defined constructor for class ftp in /home/wwwunloc/public_html/blog/wp-admin/includes/class-ftp-sockets.php on line 34
+[01-Oct-2015 11:21:15 Europe/Berlin] PHP Fatal error:  Class 'ftp_base' not found in /home/wwwunloc/public_html/blog/wp-admin/includes/class-ftp-sockets.php on line 28
+[01-Oct-2015 11:21:15 Europe/Berlin] PHP Fatal error:  Class 'WP_Filesystem_Base' not found in /home/wwwunloc/public_html/blog/wp-admin/includes/class-wp-filesystem-direct.php on line 17
+[01-Oct-2015 11:21:16 Europe/Berlin] PHP Fatal error:  Class 'WP_Filesystem_Base' not found in /home/wwwunloc/public_html/blog/wp-admin/includes/class-wp-filesystem-ftpext.php on line 17
+[01-Oct-2015 11:21:16 Europe/Berlin] PHP Fatal error:  Class 'WP_Filesystem_Base' not found in /home/wwwunloc/public_html/blog/wp-admin/includes/class-wp-filesystem-ftpsockets.php on line 17
+[01-Oct-2015 11:21:16 Europe/Berlin] PHP Fatal error:  Class 'WP_Filesystem_Base' not found in /home/wwwunloc/public_html/blog/wp-admin/includes/class-wp-filesystem-ssh2.php on line 36
+[01-Oct-2015 11:21:16 Europe/Berlin] PHP Fatal error:  Call to undefined function __() in /home/wwwunloc/public_html/blog/wp-admin/includes/continents-cities.php on line 7
+[01-Oct-2015 11:21:16 Europe/Berlin] PHP Fatal error:  Call to undefined function __() in /home/wwwunloc/public_html/blog/wp-admin/includes/file.php on line 13
+[01-Oct-2015 11:21:16 Europe/Berlin] PHP Fatal error:  Call to undefined function add_filter() in /home/wwwunloc/public_html/blog/wp-admin/includes/media.php on line 64
+[01-Oct-2015 11:21:16 Europe/Berlin] PHP Fatal error:  Call to undefined function add_action() in /home/wwwunloc/public_html/blog/wp-admin/includes/misc.php on line 247
+[01-Oct-2015 11:21:16 Europe/Berlin] PHP Fatal error:  Call to undefined function add_filter() in /home/wwwunloc/public_html/blog/wp-admin/includes/plugin.php on line 1812
+[01-Oct-2015 11:21:16 Europe/Berlin] PHP Fatal error:  Call to undefined function add_action() in /home/wwwunloc/public_html/blog/wp-admin/includes/plugin-install.php on line 161
+[01-Oct-2015 11:21:16 Europe/Berlin] PHP Fatal error:  Class 'Walker' not found in /home/wwwunloc/public_html/blog/wp-admin/includes/template.php on line 24
+[01-Oct-2015 11:21:16 Europe/Berlin] PHP Fatal error:  Call to undefined function add_action() in /home/wwwunloc/public_html/blog/wp-admin/includes/theme-install.php on line 205
+[01-Oct-2015 11:21:16 Europe/Berlin] PHP Fatal error:  Call to undefined function add_filter() in /home/wwwunloc/public_html/blog/wp-admin/includes/update.php on line 191
+[01-Oct-2015 11:21:17 Europe/Berlin] PHP Warning:  require_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home/wwwunloc/public_html/blog/wp-admin/includes/upgrade.php on line 16
+[01-Oct-2015 11:21:17 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/admin.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wwwunloc/public_html/blog/wp-admin/includes/upgrade.php on line 16
+[01-Oct-2015 11:21:17 Europe/Berlin] PHP Fatal error:  Call to undefined function add_action() in /home/wwwunloc/public_html/blog/wp-admin/includes/user.php on line 387

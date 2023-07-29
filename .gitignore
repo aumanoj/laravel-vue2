@@ -21,3 +21,9 @@ Homestead.yaml
 Homestead.json
 /.vagrant
 .phpunit.result.cache
+
+/public/hot
+/public/storage
+/public/robots.txt
+/public/blog/wp-config.php
+
